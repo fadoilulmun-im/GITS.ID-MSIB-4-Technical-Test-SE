@@ -1,7 +1,7 @@
 # GITS.ID-MSIB-4-Technical-Test-SE
 
 ## Link Postman
-<a href="https://documenter.getpostman.com/view/12434236/2s8ZDSdRMa" target="_blank"> <h2>- Postman </h2></a>
+- https://documenter.getpostman.com/view/12434236/2s8ZDSdRMa
 
 ## Untuk mencoba jawaban Test 1 dan Test 2
 
